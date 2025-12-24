@@ -27,3 +27,6 @@ Solve and submit the following files:
 Submission deadline: 19th December 2025, 11:59 PM.
 
 Submission Guidelines: Clone this repository and add your submissions to folders named week-1, week-2, and so on. The final project will also be stored in a folder within this repository. You will need to submit the repository link, and for all assignments, simply update the repository, and I'll review it.
+
+Submission Link for assignment-1 : https://forms.gle/2Jg43i78YJ5mWxz37
+
