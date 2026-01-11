@@ -8,6 +8,10 @@ You will **choose your own dataset**, perform structured exploratory analysis, e
 
 ---
 
+## Resources
+
+- Youtube video: https://www.youtube.com/watch?v=fHFOANOHwh8
+
 ## Objectives
 
 By the end of this project, you should be able to:
